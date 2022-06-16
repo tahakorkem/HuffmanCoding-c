@@ -1,0 +1,1 @@
+A Huffman Coding algorithm implementation in C.
